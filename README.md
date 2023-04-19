@@ -1,5 +1,5 @@
 # exerc-em-c
-Exercícios básicos em C que eu fiz para uma atividade na faculdade.
+Exercícios básicos em C que eu fiz para uma atividade na faculdade.  Completo em https://replit.com/@dflins.
 
 1. Faça um programa em C que imprima o seu nome.
 2. Faça um programa em C que imprima o produto dos valores 30 e 27.
