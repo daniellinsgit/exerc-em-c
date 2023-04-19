@@ -1,5 +1,5 @@
-//Faça um programa em C que leia três números reais e calcule a média aritmética desses números. Ao final, o programa deve imprimir o resultado do cálculo com uma casa decimal.
-//Autor: Daniel Lins
+//Faça um programa em C que leia o nome, o endereço e o telefone de um cliente e ao final, imprima esses dados
+//AUTOR: DANIEL LINS
 #include <stdio.h>
 
 int main()
